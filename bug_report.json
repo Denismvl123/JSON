@@ -1,6 +1,6 @@
 {
   "Bug ID": 237,
-  "Summary": "The "SAVE DATA" button is smaller than the others",
+  "Summary": "The SAVE DATA button is smaller than the others",
   "Severity": "trivial",
   "Priority": "low",
   "Environment": "Xiaomi Redmi S2, android 9 PKQ1.181203.001, MIUI  global 12.0.1",
